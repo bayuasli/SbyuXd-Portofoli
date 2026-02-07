@@ -37,7 +37,7 @@ export function Contact() {
     {
       name: "WhatsApp",
       icon: MessageCircle,
-      detail: "SbyuXd",
+      detail: "𝗦𝗯𝘆𝘂𝗫𝗱",
       link: "https://wa.me/628895307489",
       bgColor: "bg-green-100 dark:bg-green-900/30",
       iconColor: "text-green-600 dark:text-green-400"
@@ -70,7 +70,7 @@ export function Contact() {
       name: "Email",
       icon: Mail,
       detail: "SbyuXd",
-      link: "mailto:furinabyaka@gmail.com",
+      link: "bayuror24@gmail.com",
       bgColor: "bg-purple-100 dark:bg-purple-900/30",
       iconColor: "text-purple-600 dark:text-purple-400"
     }
