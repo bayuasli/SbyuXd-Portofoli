@@ -35,9 +35,10 @@ export function About() {
             transition={{ duration: 0.6, ease: "easeOut", delay: 0.2 }}
             className="text-lg leading-relaxed text-neutral-600 dark:text-neutral-300"
           >
-            Saat ini saya fokus mengembangkan bot WhatsApp dengan arsitektur modular, web applications menggunakan teknologi modern,
+            Tujuan saat ini adalah fokus mengembangkan bot WhatsApp dengan arsitektur modular, web applications menggunakan teknologi modern,
             dan sistem otomasi yang dapat membantu mempermudah berbagai aktivitas downloader dan sebagai fun. Saya percaya bahwa teknologi dapat menjadi
-            solusi untuk masalah sehari-hari, dan terus belajar untuk menciptakan inovasi yang bermanfaat bagi banyak orang.
+            solusi untuk masalah sehari-hari, dan terus belajar untuk menciptakan inovasi yang bermanfaat bagi banyak orang
+            fitur bot WhatsApp yang saya rakit sudah mencakup banyak kategori yang cukup berguna untuk gua pribadi.
           </motion.p>
         </div>
       </div>
