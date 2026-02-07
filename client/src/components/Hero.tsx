@@ -57,7 +57,7 @@ export function Hero() {
           transition={{ duration: 0.6, ease: "easeOut" }}
           className="text-4xl lg:text-6xl font-bold text-neutral-900 dark:text-neutral-100 mb-4"
         >
-          aka
+          𝗦𝗯𝘆𝘂𝗫𝗱
         </motion.h1>
 
         {/* Age and Location */}
@@ -88,7 +88,7 @@ export function Hero() {
           transition={{ duration: 0.6, ease: "easeOut", delay: 0.2 }}
           className="text-lg italic text-neutral-500 dark:text-neutral-400 mb-8"
         >
-          "gw hanya pemula 🗿"
+          "Sorry koh kalo jelek,lagi pisanan urip soale🗿🙏"
         </motion.p>
 
         {/* WhatsApp Contact Button */}
