@@ -12,7 +12,7 @@ export function Projects() {
       id: 1,
       title: "WhatsApp Bot Modular",
       description: "Bot WhatsApp yg bernama bxx-bot atau 𝗦𝗶𝗯𝗮𝘆𝘂𝗫𝗱 𝗕𝗼𝘁 yg memiliki beragam fitur dan hal keren lainya.",
-      image: "https://raw.githubusercontent.com/bayuasli/dat1/main/uploads/88e734-1770443317383.jpg",
+      image: "https://raw.githubusercontent.com/bayuasli/dat1/main/uploads/3567a7-1770464261851.jpg",
       tech: ["Node.js", "WhatsApp API", "Javascript"],
       link: "https://wa.me/628895307489",
       techColors: ["bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400", "bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400", "bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-400"]
@@ -21,7 +21,7 @@ export function Projects() {
       id: 2,
       title: "portofolio",
       description: "Website portofolio yang menggunakan framework vite dan dapat di hosting vercel",
-      image: "https://raw.githubusercontent.com/bayuasli/dat3/main/uploads/60016f-1770443431457.jpg",
+      image: "https://raw.githubusercontent.com/bayuasli/dat3/main/uploads/577e36-1770464312424.jpg",
       tech: ["react", "Tailwind", "Vite"],
       link: "https://sibayudeploy.vercel.app",
       techColors: ["bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400", "bg-cyan-100 dark:bg-cyan-900/30 text-cyan-800 dark:text-cyan-400", "bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-400"]
