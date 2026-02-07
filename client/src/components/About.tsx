@@ -26,7 +26,7 @@ export function About() {
             className="text-lg leading-relaxed mb-6 text-neutral-600 dark:text-neutral-300"
           >
             Halo! Saya SbyuXd, seorang pelajar dari sekolah SMAN 1 GEBOG KUDUS.
-            Perjalanan saya dimulai dari rasa ingin tahu tentang bagaimana cara kerja aplikasi dan website yang sering kita gunakan sehari-hari.
+            Perjalanan saya dimulai dari rasa ingin tahu tentang bagaimana cara kerja aplikasi dan website yang sering kita gunakan sehari-hari,awalnya saya mikir"emangnya bisa aku buat web,aplikasi modal hp",dan ternyata bisa walau skill issue dan sering suruh Ai untuk fix bug😹
           </motion.p>
 
           <motion.p
