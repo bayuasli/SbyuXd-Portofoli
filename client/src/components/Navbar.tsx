@@ -33,7 +33,7 @@ export function Navbar() {
   const menuItems = [
     { label: "Home", icon: Home, action: scrollToTop },
     { label: "About", icon: User, action: () => scrollToSection("about") },
-    { label: "Friend", icon: Users, action: () => scrollToSection("about") },
+    { label: "Objective", icon: Users, action: () => scrollToSection("about") },
     { label: "Project", icon: FolderOpen, action: () => scrollToSection("projects") },
     { label: "Contact", icon: MessageCircle, action: () => scrollToSection("contact") },
   ];
